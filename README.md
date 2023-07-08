@@ -1,17 +1,6 @@
 # Pizza App
 # Info
 This project demonstrates simple use of use of the Node.js along with its libraries to make a fully functional website.
-# Technologies
-Project is created in NodeJs including libraries like:
-* mongodb: 3.6.3
-* mongoose: 5.11.4
-* express: 4.17.1
-* passport
-* tailwind css
-# Setup
-To run this locally, install npm
-* $npm install
-* $npm run start
 # Check this app
 https://pizza-app-paul.herokuapp.com
 # Demo
